@@ -44,6 +44,8 @@ Performance: Achieves high accuracy on test data
 
 📗 Dataset
 
+Crop_recommendation.csv taken from  https://www.kaggle.com/datasets?search=crop
+
 🎯 Future Enhancements
 
 Improve model accuracy with deep learning
